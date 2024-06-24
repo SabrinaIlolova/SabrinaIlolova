@@ -27,3 +27,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-Learn" alt="Scikit-Learn" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+:fire: My Stats :
+<br> 
+<br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SabrinaIlolova&theme=dark&background=000000)](https://git.io/streak-stats)
+<br> 
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaIlolova&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<br> 
+<br>
