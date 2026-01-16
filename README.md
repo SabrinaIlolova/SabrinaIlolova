@@ -14,7 +14,7 @@
 
 :woman_technologist: About Me :
 
- I am a trainee Data Scientist :female_detective:
+ I am a middle- Data Scientist :female_detective:
  - :telescope: I'm currently looking for a job.
 
  - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-tg-blue?style=flat&logo=Telegram&logoColor=white)](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)
